@@ -103,4 +103,8 @@ body {
 .material-icons {
   color: #31313a;
 }
+
+.display {
+  display: none;
+}
 /*# sourceMappingURL=main.css.map */
